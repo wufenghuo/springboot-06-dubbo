@@ -12,5 +12,6 @@ public class UserService {
 
     public void hello(){
         System.out.println(ticketService.getTicket());
+        System.out.println("aaa");
     }
 }
